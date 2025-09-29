@@ -1,3 +1,4 @@
 {
-  "template": "vite-vue-ts"
+  "name": "Vue.js Starter Template",
+  "version": "1.0.0"
 }
