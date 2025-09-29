@@ -1,0 +1,31 @@
+You are working with a Vue.js starter template for building modern web applications.
+
+This template includes:
+- Vue 3 with Composition API support
+- Vite for fast development and building
+- TypeScript support (tsconfig.json)
+- Modern JavaScript tooling and hot reload
+
+Key features:
+- Vue 3 with latest features and performance improvements
+- Vite for lightning-fast development server
+- TypeScript support for better code quality
+- Single File Components (.vue files)
+- Reactive data binding and component system
+- Vue CLI compatibility
+
+Project structure:
+- src/: Main application source code
+- src/components/: Vue components
+- src/assets/: Static assets (images, styles)
+- public/: Public static files
+- vite.config.ts: Vite configuration
+- package.json: Dependencies and scripts
+
+To get started:
+1. Install dependencies: npm install
+2. Start development server: npm run dev
+3. Build for production: npm run build
+4. Preview production build: npm run preview
+
+This template provides a modern foundation for building Vue.js applications with TypeScript support and optimized development workflow.
